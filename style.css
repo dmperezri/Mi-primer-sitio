@@ -5,4 +5,14 @@
     background: #ac3030;
     text-decoration-color: violet;
     color: white;
+    font-size: large;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: xx-large;
+    background: blanchedalmond;
+    color: black;
+    border-radius: 10px;
 }
